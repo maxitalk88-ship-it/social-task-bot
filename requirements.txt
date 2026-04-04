@@ -1,4 +1,5 @@
 aiogram
 aiosqlite
 deep-translator
+google-generativeai
 Flask
